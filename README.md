@@ -1,2 +1,2 @@
 # C-code
-repository for the some C code projects
+repository for some C code projects
